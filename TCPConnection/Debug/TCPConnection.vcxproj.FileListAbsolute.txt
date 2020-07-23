@@ -1,0 +1,2 @@
+C:\Users\zz0620\source\repos\Multithreaded Server\Debug\TCPConnection.pdb
+C:\Users\zz0620\source\repos\Multithreaded Server\TCPConnection\Debug\TCPConnection.pdb

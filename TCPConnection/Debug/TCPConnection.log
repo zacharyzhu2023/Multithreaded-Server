@@ -1,0 +1,3 @@
+﻿  TCPConnection.cpp
+C:\Users\zz0620\source\repos\Multithreaded Server\TCPConnection\TCPConnection.cpp(99,13): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+  TCPConnection.vcxproj -> C:\Users\zz0620\source\repos\Multithreaded Server\Debug\TCPConnection.lib
